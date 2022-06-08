@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    background-color: #358597;
+}
+
+textarea{
+    width: 50vw;
+    height: 70vh;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #f4a896;
+}
+.example{
+    color: rgb(135, 0, 0);
+    
+}
+nav{
+    background-color: #f4a896;
+    
+}
